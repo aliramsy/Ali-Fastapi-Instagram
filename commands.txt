@@ -1,0 +1,3 @@
+instaloader -l username -p password
+pip install -r requirements.txt
+uvicorn main:app or unvicorn --reload main:app
